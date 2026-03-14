@@ -1,4 +1,4 @@
-
+https://github.com/santoshml-lab/loan-approval-prediction-ml/blob/main/feature_importance%20.png
 
 Loan Approval Prediction ML Pipeline
 Overview
