@@ -1,5 +1,3 @@
-# Loan Approval ML Pipeline
-
 ![Feature Importance](feature_importance.png)
 
 Loan Approval Prediction ML Pipeline
