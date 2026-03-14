@@ -1,4 +1,4 @@
-![Feature Importance](./feature_importance.png)
+
 
 Loan Approval Prediction ML Pipeline
 Overview
