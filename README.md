@@ -1,5 +1,5 @@
-https://github.com/santoshml-lab/loan-approval-prediction-ml/blob/main/feature_importance%20.png
 
+![Feature Importance](https://github.com/santoshml-lab/loan-approval-prediction-ml/blob/main/feature_importance%20.png)
 Loan Approval Prediction ML Pipeline
 Overview
 This project builds a machine learning pipeline to predict whether a loan will be Approved or Rejected using applicant financial data.
